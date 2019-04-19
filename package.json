@@ -1,6 +1,6 @@
 {
-  "name": "tmay-ui",
-  "version": "1.0.0",
+  "name": "insights-frontend-starter-app",
+  "version": "1.1.0",
   "private": false,
   "dependencies": {
     "@babel/runtime": "^7.1.2",
